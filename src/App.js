@@ -13,6 +13,7 @@ function App() {
         <h1>Batch: 20</h1>
         <h1>Section: R</h1>
       </body>
+      
     </div>
   );
 }
